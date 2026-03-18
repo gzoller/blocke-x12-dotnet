@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Blocke.X12.Tests/Blocke.X12.Tests.csproj" />
+  <Project Path="Blocke.X12/Blocke.X12.csproj" />
+</Solution>
